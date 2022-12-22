@@ -1,0 +1,9 @@
+Ejercicio4:
+Crear un formulario con un selectOneMenu multiple con los siguientes valores "nombre, apellido1, apellido2, edad, firma", un boton "Cargar Campos", un boton "Limpiar panel"
+y un panel debajo con los campos correspondientes.
+Al cargar la pantalla aparecera el panel vacio y cuando pulsemos en el boton de "Cargar Campos" deben de renderizarse los que haya seleccionados en el selecOneMenu junto a un
+boton de Submit.
+Al pulsar el boton debe de validarse que todos los campos que estén renderizados tengan un valor correcto.
+Si todos los campos renderizados tienen valor correcto debe de mostrar el mensaje: "Formulario válido"
+Si existe algun campo renderizado con valor incorrecto debe de indicar que campo está fallando: "Faltan los siguientes campos: edad, firma"
+Al pulsar en "Limpiar panel" debe de vaciarse el panel y deseleccionarse los campos que estén marcados en el selectOneMenu.

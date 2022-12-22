@@ -1,0 +1,4 @@
+Nueva pantalla que utilice el componente de autocompletado de primefaces.
+A la derecha del autocompletado, añadi un boton que levante una modal de ayuda.
+Dentro de la modal añadir una tabla que muestre todos los valores disponibles para el autocompletado.
+Al hacer click en cualquiera de ellos debe de cerrarse la modal y seleccionarse en el autocompletado.

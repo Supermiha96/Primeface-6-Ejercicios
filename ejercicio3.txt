@@ -1,0 +1,5 @@
+Ejercicio3:
+Crear un formulario con un selectOneMenu multiple con los siguientes valores "datatable, knob, radio, datepicker", un boton "Cargar Componentes", un boton "Limpiar panel"
+y un panel debajo con los cuatro componentes.
+Al cargar la pantalla aparecera el panel vacio y cuando pulsemos en el boton de "Cargar Componentes" deben de renderizarse los que haya seleccionados en el selectOneMenu.
+Al pulsar en "Limpiar panel" debe de vaciarse el panel y deseleccionarse los componentes que estén marcados en el selectOneMenu.

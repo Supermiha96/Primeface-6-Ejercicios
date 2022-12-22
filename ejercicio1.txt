@@ -1,0 +1,12 @@
+Ejercicio 1:
+Crear un formulario con los campos nombre, apellido1, apellido2, edad, firma y un boton de sumbit.
+El campo nombre debe de estar habilitado al cargar la pantalla.
+El campo apellido1 debe de habilitarse cuando se introduzca algun texto en el campo de nombre.
+El campo apellido2 debe de habilitarse cuando se introduzca algun texto en el campo de apellido1.
+El campo edad debe de habilitarse cuando se introduzca algun texto en el campo de apellido2.
+El campo de firma debe de estar dentro de un panel oculto (visible = false) y solo debe mostrarse
+cuando el campo de edad tenga algun valor > 0.
+El boton de sumbit debe de validar todos los campos.
+Si todos los campos tienen valor correcto debe de mostrar el mensaje: "Formulario válido"
+Si existe algun campo incorrecto debe de indicar que campo está fallando: 
+"Faltan los siguientes campos: edad, firma"
